@@ -6,6 +6,12 @@
 #       in this file, we assume you are running the script
 #       from the directory this file is in
 
+
+"""
+Data loading
+
+"""
+
 import numpy as np
 
 X = []
